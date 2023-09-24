@@ -1,4 +1,4 @@
-&nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamil+New+Roman&weight=700&size=23&pause=1000&color=F72CE5&vCenter=true&width=435&lines=DevOps+Engineer;Web+Developer;Command+Line+Tools+Developer;Desktop+App+developer;Android+App+developer)](https://git.io/typing-svg)
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamil+New+Roman&weight=700&size=23&pause=1000&color=F72CE5&vCenter=true&width=435&lines=DevOps+Engineer;Web+Developer;Command+Line+Tools+Developer;Desktop+App+developer;Android+App+developer)](https://git.io/typing-svg)
 
 
 ###
