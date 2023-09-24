@@ -1,4 +1,4 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%sridhar DSCV~%23+whoami;%E2%9C%93+Devops+Engineer;%E2%9C%93+Blogger+;%E2%9C%93+Web Developer+%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
+## &nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamil+New+Roman&weight=700&size=23&pause=1000&color=F72CE5&vCenter=true&width=435&lines=DevOps+Engineer;Web+Developer;Command+Line+Tools+Developer;Desktop+App+developer;Android+App+developer)](https://git.io/typing-svg)
 
 
 
