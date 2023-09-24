@@ -7,7 +7,7 @@
 
 - 🔭 addicted on Linux **
 
-- 🌱 I’m currently learning **Devops , CLI Tools Developement**, Desktop App Development**, Web Development**
+- 🌱 I’m currently learning **Devops , CLI Tools Developement**, **Desktop App Development, Web Development**
 
 
 - 👯 I’m looking to collaborate on **open Source projects**
